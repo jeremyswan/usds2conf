@@ -503,7 +503,7 @@ body{
 }
 
 .usa-button:active, .usa-button.usa-button--active{
-  background-color:#162e51;
+  background-color:#111819;
   color:white;
 }
 
@@ -573,9 +573,9 @@ body{
 
 .usa-button--outline:active, .usa-button--outline.usa-button--active{
   background-color:transparent;
-  -webkit-box-shadow:inset 0 0 0 2px #162e51;
-          box-shadow:inset 0 0 0 2px #162e51;
-  color:#162e51;
+  -webkit-box-shadow:inset 0 0 0 2px #111819;
+          box-shadow:inset 0 0 0 2px #111819;
+  color:#111819;
 }
 
 .usa-button--outline.usa-button--inverse{
@@ -623,7 +623,7 @@ body{
 }
 
 .usa-button--outline.usa-button--inverse.usa-button--unstyled:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-button--outline.usa-button--inverse.usa-button--unstyled:focus{
@@ -771,7 +771,7 @@ body{
 }
 
 .usa-button--unstyled:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-button--unstyled:focus{
@@ -1725,7 +1725,7 @@ img{
 }
 
 .usa-link:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-link:focus{
@@ -1811,7 +1811,7 @@ img{
 }
 
 .usa-prose > a:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-prose > a:focus{
@@ -1981,7 +1981,7 @@ img{
 }
 
 .usa-accordion__button:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-accordion__button:focus{
@@ -2087,7 +2087,7 @@ img{
 }
 
 .usa-alert__text a:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-alert__text a:focus{
@@ -2368,7 +2368,7 @@ img{
 }
 
 .usa-banner__button:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-banner__button:focus{
@@ -2471,7 +2471,7 @@ img{
 }
 
 .usa-footer__return-to-top a:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-footer__return-to-top a:focus{
@@ -2555,7 +2555,7 @@ img{
 }
 
 .usa-footer__secondary-link a:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-footer__secondary-link a:focus{
@@ -2784,7 +2784,7 @@ img{
 }
 
 .usa-form a:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-form a:focus{
@@ -2910,7 +2910,7 @@ img{
 }
 
 .usa-menu-btn:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-menu-btn:focus{
@@ -2988,7 +2988,7 @@ img{
 }
 
 .usa-hero__callout{
-  background-color:#162e51;
+  background-color:#111819;
   padding:2rem;
 }
 
@@ -3099,7 +3099,7 @@ img{
 }
 
 .usa-nav__primary button:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-nav__primary button:focus{
@@ -3227,7 +3227,7 @@ img{
 }
 
 .usa-nav__close:active{
-  color:#162e51;
+  color:#111819;
 }
 
 .usa-nav__close:focus{
@@ -3336,7 +3336,7 @@ input[type="search"]{
 }
 
 .usa-section--dark{
-  background-color:#162e51;
+  background-color:#111819;
   color:white;
 }
 
@@ -3862,11 +3862,11 @@ input[type="search"]{
 }
 
 .bg-primary-darker{
-  background-color:#162e51;
+  background-color:#111819;
 }
 
 .hover\:bg-primary-darker:hover{
-  background-color:#162e51;
+  background-color:#111819;
 }
 
 .bg-secondary-lighter{
@@ -4862,11 +4862,11 @@ input[type="search"]{
 }
 
 .border-primary-darker{
-  border-color:#162e51;
+  border-color:#111819;
 }
 
 .hover\:border-primary-darker:hover{
-  border-color:#162e51;
+  border-color:#111819;
 }
 
 .border-secondary-lighter{
@@ -5920,11 +5920,11 @@ input[type="search"]{
 }
 
 .text-primary-darker{
-  color:#162e51;
+  color:#111819;
 }
 
 .hover\:text-primary-darker:hover{
-  color:#162e51;
+  color:#111819;
 }
 
 .text-secondary-lighter{
@@ -8507,7 +8507,7 @@ input[type="search"]{
 }
 
 .outline-primary-darker{
-  outline-color:#162e51;
+  outline-color:#111819;
 }
 
 .outline-secondary-lighter{
@@ -9717,13 +9717,13 @@ input[type="search"]{
 }
 
 .underline-primary-darker{
-  -webkit-text-decoration-color:#162e51;
-          text-decoration-color:#162e51;
+  -webkit-text-decoration-color:#111819;
+          text-decoration-color:#111819;
 }
 
 .hover\:underline-primary-darker:hover{
-  -webkit-text-decoration-color:#162e51;
-          text-decoration-color:#162e51;
+  -webkit-text-decoration-color:#111819;
+          text-decoration-color:#111819;
 }
 
 .underline-secondary-lighter{
@@ -11386,10 +11386,10 @@ input[type="search"]{
     border-color:#1a4480;
   }
   .mobile-lg\:border-primary-darker{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .mobile-lg\:border-primary-darker .mobile-lg\:hover\:border-primary-darker:hover{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .mobile-lg\:border-secondary-lighter{
     border-color:#f3e1e4;
@@ -13530,7 +13530,7 @@ input[type="search"]{
     background-repeat:no-repeat;
   }
   .usa-banner__button:hover{
-    color:#162e51;
+    color:#111819;
   }
   .usa-banner__button[aria-expanded=true]{
     height:auto;
@@ -14262,10 +14262,10 @@ input[type="search"]{
     border-color:#1a4480;
   }
   .tablet\:border-primary-darker{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .tablet\:border-primary-darker .tablet\:hover\:border-primary-darker:hover{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .tablet\:border-secondary-lighter{
     border-color:#f3e1e4;
@@ -16593,7 +16593,7 @@ input[type="search"]{
     position:absolute;
     bottom:0;
     top:0;
-    background-color:#162e51;
+    background-color:#111819;
     content:'';
     display:block;
     position:absolute;
@@ -16604,7 +16604,7 @@ input[type="search"]{
     position:absolute;
     bottom:0;
     top:0;
-    background-color:#162e51;
+    background-color:#111819;
     content:'';
     display:block;
     position:absolute;
@@ -16688,7 +16688,7 @@ input[type="search"]{
     -moz-osx-font-smoothing:grayscale;
     -webkit-font-smoothing:antialiased;
     background-size:0.5rem;
-    background-color:#162e51;
+    background-color:#111819;
     background-position:right 1rem top 53%;
     color:white;
   }
@@ -16728,7 +16728,7 @@ input[type="search"]{
     margin-top:0;
     list-style-type:none;
     padding-left:0;
-    background-color:#162e51;
+    background-color:#111819;
     width:15rem;
     padding:1rem;
     position:absolute;
@@ -17410,10 +17410,10 @@ input[type="search"]{
     border-color:#1a4480;
   }
   .desktop\:border-primary-darker{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .desktop\:border-primary-darker .desktop\:hover\:border-primary-darker:hover{
-    border-color:#162e51;
+    border-color:#111819;
   }
   .desktop\:border-secondary-lighter{
     border-color:#f3e1e4;

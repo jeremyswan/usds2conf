@@ -2981,14 +2981,14 @@ img{
   line-height:1.5;
   padding-bottom:2rem;
   padding-top:2rem;
-  background-image:url("../img/hero.png");
+  background-image:url("../../irbo/Hero-Image.svg");
   background-position:center;
   background-size:cover;
-  color:white;
+  color:#1b1b1b; /* changes white to 1b1b1b */
 }
 
 .usa-hero__callout{
-  background-color:#111819;
+  /*background-color:#111819;*/
   padding:2rem;
 }
 
@@ -3000,7 +3000,7 @@ img{
   font-size:1.95rem;
   line-height:1.2;
   font-weight:bold;
-  color:#00bde3;
+  color:#1b1b1b; /* changed from 00bde3 to 1b1b1b */
   line-height:1.2;
 }
 

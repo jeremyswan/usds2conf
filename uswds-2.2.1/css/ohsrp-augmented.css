@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* This css is meant to augment the default USWDS css */
+
+/* show in screen reader, otherwise hidden */
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+

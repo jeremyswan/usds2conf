@@ -16,3 +16,7 @@
   border: 0;
 }
 
+.panel, .alertPanel, .infoPanel {
+    color: #333;
+    font-style: italic;
+}
